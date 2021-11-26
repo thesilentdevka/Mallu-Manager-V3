@@ -54,10 +54,11 @@ Thanks To:
 	<br>
 	<b>
 The Easiest Way to Deploy This Bot is Via Heroku.
-		In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!</b>
+		In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!
+	[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</b>
 	</details> 
 	
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+  
             
         
 
