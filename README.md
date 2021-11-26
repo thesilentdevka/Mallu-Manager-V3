@@ -47,18 +47,16 @@ Thanks To:
 > @TheHamkerCat
 
 ```
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</b>
 
 <details>
 	<summary>Heroku/Railway Deploy</summary>
 	<br>
 	<b>
+	</b>
 The Easiest Way to Deploy This Bot is Via Heroku.
 		In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!</b>
-	
-	[Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-	
-	</details> 
+</details> 
 	
   
             
