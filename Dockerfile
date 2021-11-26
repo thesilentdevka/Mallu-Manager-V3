@@ -67,7 +67,7 @@ RUN pip3 install --upgrade pip setuptools
 RUN git clone -b main https://github.com/thesilentdevka/Mallu-Manager-V3 /app
 WORKDIR /app
 
-COPY ./Mallu-Manager-V3/sample_config.py ./Mallu-Manager-V3/config.py* /app/Mallu-Manager-V3/
+COPY ./mallu-manager-v3/sample_config.py ./mallu-manager-v3/config.py* /app/mallu-manager-v3/
 
 ENV PATH="/home/bot/bin:$PATH"
 
